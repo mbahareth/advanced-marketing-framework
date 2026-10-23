@@ -1,0 +1,25 @@
+{
+  "skill": "advanced-marketing-framework",
+  "test_cases": [
+    {
+      "input": "write marketing copy using the income framework",
+      "should_trigger": true
+    },
+    {
+      "input": "analyze this website with the advanced marketing framework",
+      "should_trigger": true
+    },
+    {
+      "input": "create dual language arabic english promotional content for low middle and high income",
+      "should_trigger": true
+    },
+    {
+      "input": "what is the weather today",
+      "should_trigger": false
+    },
+    {
+      "input": "write a python script to parse a csv",
+      "should_trigger": false
+    }
+  ]
+}

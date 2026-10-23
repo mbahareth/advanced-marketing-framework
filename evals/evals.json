@@ -1,0 +1,35 @@
+{
+  "skill": "advanced-marketing-framework",
+  "test_cases": [
+    {
+      "name": "low_income_promise_copy",
+      "input": "Write a landing page headline and short intro for a budget grocery savings app targeting low-income families.",
+      "assertions": [
+        "Uses Promises / guarantees / tactics angle",
+        "Includes risk reduction language",
+        "Produces both English and Arabic versions",
+        "Applies at least one open loop or cliffhanger"
+      ]
+    },
+    {
+      "name": "middle_income_asset_copy",
+      "input": "Create marketing copy for a productivity tool aimed at middle-income professionals who want better ROI on their time.",
+      "assertions": [
+        "Frames the offer as an asset / investment with ROI",
+        "Uses professional aspirational tone",
+        "Dual English and Arabic output",
+        "Incorporates StoryBrand or JTBD elements"
+      ]
+    },
+    {
+      "name": "high_income_philosophy_copy",
+      "input": "Develop brand messaging for a luxury advisory service targeting high-income clients who care about identity and legacy.",
+      "assertions": [
+        "Uses Philosophy / insight / identity angle",
+        "Visionary and exclusive tone",
+        "Avoids pure ROI or feature focus",
+        "Produces dual-language content with matching emotional weight"
+      ]
+    }
+  ]
+}
